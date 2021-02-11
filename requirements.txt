@@ -1,0 +1,2 @@
+futurist==2.3.0
+cotyledon==1.7.3
