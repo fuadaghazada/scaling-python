@@ -1,3 +1,7 @@
 futurist==2.3.0
 cotyledon==1.7.3
 aiohttp==3.7.3
+redis==3.5.2
+rq==1.7.0
+rq-dashboard==0.6.1
+celery==5.0.5
