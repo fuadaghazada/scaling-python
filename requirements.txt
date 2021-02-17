@@ -6,3 +6,5 @@ rq==1.7.0
 rq-dashboard==0.6.1
 celery==5.0.5
 tenacity==6.3.1
+fasteners==0.16
+etcd3==0.12.0
